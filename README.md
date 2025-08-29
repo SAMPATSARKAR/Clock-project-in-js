@@ -1,3 +1,3 @@
 # Clock-project-in-js
 #preview
-![App Screeshot](assets/Screenshot.png)
+![App Screeshot](assets/screenshot.png)
